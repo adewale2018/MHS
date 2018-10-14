@@ -1,0 +1,68 @@
+
+h5{
+	text-align: center;
+	background: #11122b;
+	padding: 30px;
+	color: white;
+	border: 1px solid orangered;
+	border-radius: 10px;
+	font-size: 3em;
+
+
+}
+.container-fluid > .row > .column-big h4{
+	color: red;
+	font-size: 1.5em;
+	text-align: center;
+
+}
+.container-fluid > .row > .column-big p{
+	text-align: justify;
+	font-size: 1.3em;
+	padding-right: 30px;
+	padding-left: 30px;
+	letter-spacing: 1px;
+	font-family: "Ubuntu-Condensed", sans-serif;
+	font-weight: 700px;
+	color: black;
+	
+}
+.container-fluid > .row > .column-small h4{
+	color: red;
+	font-size: 1.5em;
+	text-align: center;
+
+}
+.container-fluid > .row > .column-small p{
+	text-align: justify;
+	font-size: 1.3em;
+	padding-right: 20px;
+	padding-left: 20px;
+	letter-spacing: 1px;
+	font-weight: 700px;
+	color: black;
+}
+.container-fluid > .profile h2{
+	text-align: center;
+	color: orangered;
+
+}
+.container-fluid > .profile h4{
+	text-align: left;
+	color: white;
+	background: orangered;
+	padding: 10px;
+	border:2px solid white;
+	border-radius: 10px;
+	font-size: 1.5em
+}
+.container-fluid > .profile p{
+	text-align: justify;
+	color: teal;
+
+}
+.container-fluid > .profile ul li{
+	color: #000814;
+	font-size: 1.3em;
+
+}

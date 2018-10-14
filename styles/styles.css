@@ -1,0 +1,50 @@
+body { padding-top: 70px; }
+    .jumbotron {
+      color: #2c3e50;
+      background: #ecf0f1;
+
+    }
+    .navbar-inverse {
+      background: #2c3e50;
+      color: white;
+    }
+    .navbar-inverse .navbar-brand, .navbar-inverse a{
+      color:white;
+    }
+    .navbar-inverse .navbar-nav>li>a {
+      color: white;
+    } 
+
+.container-fluid > .feature{
+  border-top: 2px solid orangered;
+  border-bottom: 2px solid orangered;
+  background: #11122b;
+
+}
+
+.mission h4{
+  text-transform: uppercase;
+    text-align: center;
+    font-size: 2em;
+    letter-spacing: 2.5px;
+   font-family: 'Roboto Slab', serif;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    color: red;
+  }
+
+  .mission p{
+    letter-spacing: 1px;
+    line-height: 25px;
+    color: white;
+    text-align: justify;
+    padding-left: 30px;
+    padding-right: 30px;
+     
+     font-size: 1em;
+  }
+  .mission a{
+    text-decoration: none;
+    color: red;
+    font-weight: bold;
+  }

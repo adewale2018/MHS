@@ -1,0 +1,63 @@
+#blogs > .container-fluid > .jumbotron > .row h3{
+	color: red;
+	text-align: center;
+	padding: 10px;
+	border: 1px solid red;
+	border-radius: 15px;
+}
+#blogs > .container-fluid > .jumbotron > .row > .up{
+	background: red;
+	border: 1px solid white;
+	border-radius: 20px;
+	padding: 10px;
+}
+
+#blogs > .container-fluid > .jumbotron > .row a{
+	color: white;
+	font-family: 'Montserrat', sans-serif;
+} 
+#blogs h3{
+	color: green;
+	font-family: 'Ubuntu Condensed', sans-serif;
+	font-weight: normal;
+}
+#blogs h5{
+	color: orangered;
+}
+#blogs p{
+	/*font-family: 'Ubuntu Condensed', sans-serif;*/
+	font-family: 'Roboto', sans-serif;
+	text-align: justify;
+	font-size: 1.2em;
+	color: #11122b;
+}
+#role h3{
+	color: red;
+}
+#role strong {
+	color: green;
+	font-size: 1em;
+}
+#role h4{
+	color: red;
+}
+#role p{
+	color: teal;
+	font-family: 'Roboto', sans-serif;
+}
+#role h5{
+	color: red;
+	background: white;
+	font-size: 20px;
+	text-align: left;
+	padding: 10px;
+	border: 1px solid black;
+	border-radius: 30px;
+}
+.tips h4{
+	color: white;
+	background: teal;
+	padding: 20px;
+	border: 1px solid black;
+	border-radius: 15px;
+}
